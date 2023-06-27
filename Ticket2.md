@@ -6,7 +6,7 @@
 
 ### Пример двунаправленного списка:
 ```python
-class DoublyNode:упорядоченные структуры, в которых адрес элемента однозначно определяется его номером.
+class DoublyNode:
     next_node = None
     prev_node = None
     value = None
@@ -24,7 +24,10 @@ class DoublyList:
             self.head = node
         else:
             self.tail.next_node = node
-            node.prev_node = упорядоченные структуры, в которых адрес элемента однозначно определяется его номером.
+            node.prev_node = self.tail
+
+        self.tail = node
+
     def contains_value(self, value):
         node = self.tail
     
