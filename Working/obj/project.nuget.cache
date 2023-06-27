@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGj+BDsIsuwcAgrVIaVBXSnXxmgTzsTnvlfLuFZqigPF7CqBJKJzGYDTTbgggo2dwShEWHu7RVXUilJOklRcag==",
+  "success": true,
+  "projectFilePath": "/home/shizik/Projects/WorkingForVSExam/Working/Working.csproj",
+  "expectedPackageFiles": [
+    "/home/shizik/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
